@@ -3,7 +3,7 @@
 <table>
 	<tr>
 		<td align="center">
-			<h3><a href="https://github.com/jonh-carvalho/PECD1_26.2_8002">PECD1_26.2_8002</a></h3>
+			<h3><a href="https://github.com/jonh-carvalho/PECD1_26.2_8002">PECDI_26.2_8002</a></h3>
 			<p>Projeto em Ciência de Dados I</p>
 		</td>
 		<td align="center">
@@ -58,6 +58,30 @@
 ### Deployment e Cloud
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-1AB7EA?style=for-the-badge&logo=render&logoColor=white) ![Aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## Estatísticas do GitHub
+
+<div align="center">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonh-carvalho&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonh-carvalho&layout=compact&theme=transparent" />
+</div>
+
+<div align="center">
+	<img src="https://streak-stats.demolab.com?user=jonh-carvalho&theme=transparent" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
