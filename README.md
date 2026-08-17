@@ -61,13 +61,20 @@
 
 ## Estatísticas do GitHub
 
-<div align="center">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonh-carvalho&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonh-carvalho&layout=compact&theme=transparent" />
-</div>
+
 
 <div align="center">
 	<img src="https://streak-stats.demolab.com?user=jonh-carvalho&theme=transparent" />
+</div>
+
+
+
+<div align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonh-carvalho&theme=github-compact&hide_border=true" />
+</div>
+
+<div align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonh-carvalho&theme=github" />
 </div>
 
 
