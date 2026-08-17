@@ -1,44 +1,44 @@
 ## Disciplinas do Semestre
 
-<table>
+<table width="100%">
 	<tr>
-		<td align="center">
+		<td width="33.33%" align="center" valign="top">
 			<h3><a href="https://github.com/jonh-carvalho/PECD1_26.2_8002">PECDI_26.2_8002</a></h3>
 			<p>Projeto em Ciência de Dados I</p>
 		</td>
-		<td align="center">
+		<td width="33.33%" align="center" valign="top">
 			<h3><a href="https://github.com/jonh-carvalho/PECDII_26.2_8001">PECDII_26.2_8001</a></h3>
 			<p>Projeto em Ciência de Dados II</p>
 		</td>
-		<td align="center">
+		<td width="33.33%" align="center" valign="top">
 			<h3><a href="https://github.com/jonh-carvalho/BDCC_CDIA_26.2_8001">BDCC_CDIA_26.2_8001</a></h3>
 			<p>Big Data e Cloud Computing</p>
 		</td>
 	</tr>
 	<tr>
-		<td align="center">
+		<td width="33.33%" align="center" valign="top">
 			<h3><a href="https://github.com/jonh-carvalho/BDCC_ADS_26.2_8001">BDCC_ADS_26.2_8001</a></h3>
 			<p>Big Data e Cloud Computing</p>
 		</td>
-		<td align="center">
+		<td width="33.33%" align="center" valign="top">
 			<h3><a href="https://github.com/jonh-carvalho/PBE_26.2_8002">PBE_26.2_8002</a></h3>
 			<p>Projeto Back-End</p>
 		</td>
-		<td align="center">
+		<td width="33.33%" align="center" valign="top">
 			<h3><a href="https://github.com/jonh-carvalho/CG_26.2_8001">CG_26.2_8001</a></h3>
 			<p>Computação Gráfica</p>
 		</td>
 	</tr>
 	<tr>
-		<td align="center">
+		<td width="33.33%" align="center" valign="top">
 			<h3><a href="https://github.com/jonh-carvalho/PECDII_26.2_8001" >PECDII_26.2_8001</a></h3>
 			<p>Projeto em Ciência de Dados II</p>
 		</td>
-		<td align="center">
+		<td width="33.33%" align="center" valign="top">
 			<h3><a href="https://github.com/jonh-carvalho/PC_ADS_26.2_8001">PC_ADS_26.2_8001</a></h3>
 			<p>Projeto de Cloud Computing</p>
 		</td>
-		<td align="center">
+		<td width="33.33%" align="center" valign="top">
 			<h3><a href="https://github.com/jonh-carvalho/PC_CDIA_26.2_8001">PC_CDIA_26.2_8001</a></h3>
 			<p>Projeto de Cloud Computing</p>
 		</td>
