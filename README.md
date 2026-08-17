@@ -13,14 +13,6 @@
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-1AB7EA?style=for-the-badge&logo=render&logoColor=white) ![Aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## Disciplinas do semestre
-
-- **PECD I** - Projeto em Ciência de Dados I
-- **PECD II** - Projeto em Ciência de Dados II
-- **BDCC** - Big Data e Cloud Computing
-- **CDIA** - Ciência de Dados e Inteligência Artificial
-- **ADS** - Análise e Desenvolvimento de Sistemas
-- **PBE** - Projeto Back-End
 
 ## Projetos em destaque
 
