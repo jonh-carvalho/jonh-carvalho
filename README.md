@@ -53,29 +53,14 @@
 
 ### Ferramentas e ecossistema
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+
 
 ### Deployment e Cloud
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-1AB7EA?style=for-the-badge&logo=render&logoColor=white) ![Aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## Estatísticas do GitHub
 
-
-
-<div align="center">
-	<img src="https://streak-stats.demolab.com?user=jonh-carvalho&theme=transparent" />
-</div>
-
-
-
-<div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonh-carvalho&theme=github-compact&hide_border=true" />
-</div>
-
-<div align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonh-carvalho&theme=github" />
-</div>
 
 
 
