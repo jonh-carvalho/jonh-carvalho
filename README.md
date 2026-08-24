@@ -7,7 +7,7 @@
 			<p>Projeto em Ciência de Dados I</p>
 		</td>
 		<td width="33.33%" align="center" valign="top">
-			<h3><a href="https://github.com/jonh-carvalho/PECDII_26.2_8001">PECDII_26.2_8001</a></h3>
+			<h3><a href="https://github.com/jonh-carvalho/PECDII_26.2_8003">PECDII_26.2_8003</a></h3>
 			<p>Projeto em Ciência de Dados II</p>
 		</td>
 		<td width="33.33%" align="center" valign="top">
