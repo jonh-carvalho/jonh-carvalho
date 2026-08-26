@@ -28,7 +28,6 @@
 			<h3><a href="https://github.com/jonh-carvalho/CG_26.2_8001">CG_26.2_8001</a></h3>
 			<p>Computação Gráfica</p>
 		</td>
-		
 	</tr>
 	<tr>
 		<td width="33.33%" align="center" valign="top">
