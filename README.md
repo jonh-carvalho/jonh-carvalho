@@ -3,7 +3,7 @@
 <table width="100%">
 	<tr>
 		<td width="33.33%" align="center" valign="top">
-			<h3><a href="https://github.com/jonh-carvalho/PECD1_26.2_8002">PECDI_26.2_8002</a></h3>
+			<h3><a href="https://github.com/jonh-carvalho/PECDI_26.2_8002">PECDI_26.2_8002</a></h3>
 			<p>Projeto em Ciência de Dados I</p>
 		</td>
 		<td width="33.33%" align="center" valign="top">
